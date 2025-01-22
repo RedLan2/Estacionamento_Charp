@@ -16,9 +16,9 @@ namespace Estacionamento.Models
         public string Numero { get; set; }
         public string Complemento { get; set; }
 
-        [JsonIgnore]
+    /*    [JsonIgnore]
         [NotMapped]
        public ICollection<Estacionamento>? Estacionamentos { get; set; }
 
-    }
-}
+    }*/
+}}

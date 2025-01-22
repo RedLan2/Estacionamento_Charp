@@ -55,7 +55,9 @@ namespace Estacionamento.Controllers
                     {
                         Nome = estacionamentoDTO.Nome,
                         vagas = estacionamentoDTO.Vagas,
-                        DonoId  = estacionamentoDTO.DonoId
+                        DonoId  = estacionamentoDTO.DonoId,
+                        CNPJ = estacionamentoDTO.CNPJ,
+                        valorVaga = estacionamentoDTO.valorVaga
                     };
                 _contexto.Add(estacionameto);
                 _contexto.SaveChanges();
@@ -82,7 +84,11 @@ namespace Estacionamento.Controllers
                  return NotFound("Nenhum veículo encontrado para este dono.");
              }
              return Ok(veiculos);
+    }
 
-      
+    [HttpGet("ListarEstacionamentos")]
+    public IActionResult ListarEstacionamentos(){
+        var estacionamentos = _contexto.Estacionamentos.ToList();
+        return Ok(estacionamentos);
     }
 }}
