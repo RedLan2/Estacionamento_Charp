@@ -55,10 +55,10 @@ namespace Estacionamento.Models
             .HasPrincipalKey(v => v.placa)
             .IsRequired();
 
-           /*  modelBuilder.Entity<Endereco>()
+             modelBuilder.Entity<Endereco>()
             .HasMany(e => e.Estacionamentos)
             .WithOne(e => e.Endereco)
-            .HasForeignKey(e => e.EnderecoId);*/
+            .HasForeignKey(e => e.EnderecoId);
     }
     }
 }

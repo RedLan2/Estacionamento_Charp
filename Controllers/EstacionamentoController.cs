@@ -91,4 +91,10 @@ namespace Estacionamento.Controllers
         var estacionamentos = _contexto.Estacionamentos.ToList();
         return Ok(estacionamentos);
     }
+    [HttpPost("CriarEndereco")]
+    public IActionResult Create(Endereco endereco){
+        _contexto.Add(endereco);
+        _contexto.SaveChanges();
+        return Ok(endereco);
+    }
 }}

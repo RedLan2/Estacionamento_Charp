@@ -13,6 +13,7 @@ namespace Estacionamento.Models
         public int DonoId { get; set; }
         public int CNPJ { get; set; }
         public double valorVaga { get; set; }
+        public int EnderecoId { get; set; }
 
 
         public static EstacionamentoDTO ConvertToDTO(Estacionamento estacionamento)
@@ -24,7 +25,8 @@ namespace Estacionamento.Models
                 Vagas = estacionamento.vagas,
                 DonoId = estacionamento.DonoId,
                 CNPJ = estacionamento.CNPJ,
-                valorVaga = estacionamento.valorVaga
+                valorVaga = estacionamento.valorVaga,
+                EnderecoId = estacionamento.EnderecoId
 
             };
         }
