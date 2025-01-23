@@ -20,5 +20,7 @@ namespace Estacionamento.Models
         [NotMapped]
        public ICollection<Estacionamento>? Estacionamentos { get; set; }
 
+       
+
     }
 }
