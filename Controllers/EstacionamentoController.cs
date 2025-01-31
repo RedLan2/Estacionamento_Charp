@@ -65,6 +65,7 @@ namespace Estacionamento.Controllers
                 _contexto.SaveChanges();
                 return Ok(estacionamentoDTO);
             }
+            
             [HttpPost("CriarReservaEstacionamento")]
             public IActionResult Create(ReservaEstacionamentoDTO reservaEstacionamentoDTO){
                 var reservaEstacionamento = new ReservaEstacionament
@@ -85,6 +86,7 @@ namespace Estacionamento.Controllers
                     // Encontra a vaga disponível (se houver)
                     var vagaDisponivel = estacionamento.VagasEstacionamento
                                                     .FirstOrDefault(v => v.vagaOcupada < 1); // Vaga disponível, ou seja, não ocupada
+
 
                     if (vagaDisponivel != null)
                     {
@@ -132,7 +134,6 @@ namespace Estacionamento.Controllers
     {
         return NotFound("Estacionamento não encontrado");
     }
-
     int vagas = estacionamento.vagas;
     return Ok(vagas);
    

@@ -22,24 +22,33 @@ namespace Estacionamento.Models
         [NotMapped]
         public virtual ICollection<ReservaEstacionament>? ReservaEstacionament { get; set; }
         
-        public int VagasDisponiveis
+         public int VagasDisponiveis
+    {
+        get
         {
-            get
-            {
-                int vagasOcupadas = VagasEstacionamento.Sum(v => v.vagaOcupada);
-                return vagas - vagasOcupadas;
-            }
+            int vagasOcupadas = VagasEstacionamento.Sum(v => v.vagaOcupada);
+            return vagas - vagasOcupadas;
         }
+    }
 
-        public bool PodeOcuparVaga()
-        {
-            return VagasDisponiveis > 0;
-        }
+    public bool PodeOcuparVaga()
+    {
+        return VagasDisponiveis > 0;
+    }
 
-        public bool PodeLiberarVaga()
+    public bool PodeLiberarVaga()
+    {
+        return VagasEstacionamento.Sum(v => v.vagaOcupada) > 0;
+    }
+
+    public void InicializarVagas()
+    {
+        foreach (var vaga in VagasEstacionamento)
         {
-            return VagasEstacionamento.Sum(v => v.vagaOcupada) > 0;
+            vaga.vagaDisponivel = vagas;  // Inicializa com o número total de vagas disponíveis
+            vaga.vagaOcupada = 0;         // Nenhuma vaga ocupada no início
         }
+    }
     [JsonIgnore]
     [NotMapped]
     public virtual ICollection<VagaEstacionamento> VagasEstacionamento { get; set; }
