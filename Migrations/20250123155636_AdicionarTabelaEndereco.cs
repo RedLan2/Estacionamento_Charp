@@ -9,14 +9,14 @@ namespace Estacionamento.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AddColumn<int>(
+          /*  migrationBuilder.AddColumn<int>(
                 name: "EnderecoId",
                 table: "Estacionamentos",
                 type: "int",
                 nullable: false,
-                defaultValue: 0);
+                defaultValue: 0);*/
 
-            migrationBuilder.CreateTable(
+       /*     migrationBuilder.CreateTable(
                 name: "Enderecos",
                 columns: table => new
                 {
@@ -68,5 +68,5 @@ namespace Estacionamento.Migrations
                 name: "EnderecoId",
                 table: "Estacionamentos");
         }
-    }
-}
+    */}
+}}

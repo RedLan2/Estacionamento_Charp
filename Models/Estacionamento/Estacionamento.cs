@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
+
 namespace Estacionamento.Models
 {
     public class Estacionamento
@@ -21,6 +22,27 @@ namespace Estacionamento.Models
         [NotMapped]
         public virtual ICollection<ReservaEstacionament>? ReservaEstacionament { get; set; }
         
+        public int VagasDisponiveis
+        {
+            get
+            {
+                int vagasOcupadas = VagasEstacionamento.Sum(v => v.vagaOcupada);
+                return vagas - vagasOcupadas;
+            }
+        }
+
+        public bool PodeOcuparVaga()
+        {
+            return VagasDisponiveis > 0;
+        }
+
+        public bool PodeLiberarVaga()
+        {
+            return VagasEstacionamento.Sum(v => v.vagaOcupada) > 0;
+        }
+    [JsonIgnore]
+    [NotMapped]
+    public virtual ICollection<VagaEstacionamento> VagasEstacionamento { get; set; }
 
         [JsonIgnore]
         public virtual DonoEstacionamento DonoEstacionamento {get; set;}

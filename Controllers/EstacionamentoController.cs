@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Estacionamento.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Estacionamento.Controllers
 {   [ApiController]
@@ -73,7 +75,32 @@ namespace Estacionamento.Controllers
                     };
                 _contexto.Add(reservaEstacionamento);
                 _contexto.SaveChanges();
+                
+                 var estacionamento = _contexto.Estacionamentos
+                                  .Include(e => e.VagasEstacionamento)
+                                  .FirstOrDefault(e => e.Id == reservaEstacionamentoDTO.EstacionamentoId);
+
+                if (estacionamento != null && estacionamento.VagasEstacionamento != null)
+                {
+                    // Encontra a vaga disponível (se houver)
+                    var vagaDisponivel = estacionamento.VagasEstacionamento
+                                                    .FirstOrDefault(v => v.vagaOcupada < 1); // Vaga disponível, ou seja, não ocupada
+
+                    if (vagaDisponivel != null)
+                    {
+                        // Atualiza a vaga, ocupando-a
+                        vagaDisponivel.OcupadaVaga(); // Método que aumenta vagaOcupada e diminui vagaDisponivel
+                        _contexto.Update(vagaDisponivel);
+                        _contexto.SaveChanges();
+                    }
+                    else
+                    {
+                        // Caso não haja vagas disponíveis, retorne uma resposta informando
+                        return BadRequest("Não há vagas disponíveis no estacionamento.");
+                    }
+                }
                 return Ok(reservaEstacionamentoDTO);
+    
             }
 
          [HttpGet("ListarVeiculos/{clienteId}")]
@@ -96,5 +123,19 @@ namespace Estacionamento.Controllers
         _contexto.Add(endereco);
         _contexto.SaveChanges();
         return Ok(endereco);
+    }
+    [HttpGet("VagasEstacionamento/{estacionamentoId}")]
+    public IActionResult VagasEstacionamento(int estacionamentoId){
+      
+    var estacionamento = _contexto.Estacionamentos.FirstOrDefault(e => e.Id == estacionamentoId);
+    if (estacionamento == null)
+    {
+        return NotFound("Estacionamento não encontrado");
+    }
+
+    int vagas = estacionamento.vagas;
+    return Ok(vagas);
+   
+
     }
 }}

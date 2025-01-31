@@ -20,6 +20,7 @@ namespace Estacionamento.Models
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Estacionamento> Estacionamentos{get;set;}
         public DbSet<ReservaEstacionament> ReservaEstacionaments { get; set; }
+        public DbSet<VagaEstacionamento> VagaEstacionamentos { get; set; }
 
 
            protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -56,10 +57,16 @@ namespace Estacionamento.Models
             .IsRequired();
 
             modelBuilder.Entity<Endereco>()
-    .HasMany(e => e.Estacionamentos)
-    .WithOne(e => e.Endereco)
-    .HasForeignKey(e => e.EnderecoId)
-    .OnDelete(DeleteBehavior.Cascade);
+                .HasMany(e => e.Estacionamentos)
+                .WithOne(e => e.Endereco)
+                .HasForeignKey(e => e.EnderecoId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+                modelBuilder.Entity<VagaEstacionamento>()
+                    .HasOne(v => v.Estacionamento)  // Relacionamento 1:N com Estacionamento
+                    .WithMany(e => e.VagasEstacionamento)  // Estacionamento tem muitas Vagas
+                    .HasForeignKey(v => v.EstacionamentoId)  // A chave estrangeira é EstacionamentoId
+                    .OnDelete(DeleteBehavior.Cascade);
     }
     }
 }
