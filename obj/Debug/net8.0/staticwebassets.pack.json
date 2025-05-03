@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\criarconta.html",
+      "PackagePath": "staticwebassets\\criarconta.html"
+    },
+    {
+      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
+      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Estacionamento.props",
+      "PackagePath": "build\\Estacionamento.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Estacionamento.props",
+      "PackagePath": "buildMultiTargeting\\Estacionamento.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Estacionamento.props",
+      "PackagePath": "buildTransitive\\Estacionamento.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

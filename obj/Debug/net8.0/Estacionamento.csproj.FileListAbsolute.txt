@@ -1,0 +1,823 @@
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.sourcelink.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.staticwebassets.runtime.json
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\netstandard.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Console.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Core.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Web.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\EMANOEL EDVAN\Downloads\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.dll
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.pdb
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\appsettings.json
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.staticwebassets.runtime.json
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.exe
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Estacionamento.pdb
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\netstandard.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Console.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Core.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Data.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Web.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Estacionamento_Charp-main\obj\Debug\net8.0\ref\Estacionamento.dll

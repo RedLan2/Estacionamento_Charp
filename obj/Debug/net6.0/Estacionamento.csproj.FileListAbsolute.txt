@@ -1,0 +1,149 @@
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\appsettings.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CopyComplete
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\appsettings.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.csproj.CopyComplete
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Gerenciador_Vagas-main\Gerenciador_Vagas\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\appsettings.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.csproj.CopyComplete
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+<<<<<<< HEAD
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\appsettings.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacionamento.sourcelink.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\obj\Debug\net6.0\Estacion.D5276226.Up2Date
+=======
+>>>>>>> c852c0a27c4cc27835fe98b91ae723f5d41a0e1d

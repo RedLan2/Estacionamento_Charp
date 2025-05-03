@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "n+Chug8mTERcQuSuY5ktvi5tQX7Z1G+SC4D7lxfh+hE=",
+  "Source": "Estacionamento",
+  "BasePath": "_content/Estacionamento",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Estacionamento\\wwwroot",
+      "Source": "Estacionamento",
+      "ContentRoot": "C:\\Estacionamento_Charp-main\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Estacionamento_Charp-main\\wwwroot\\criarconta.html",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Estacionamento_Charp-main\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "criarconta.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\criarconta.html"
+    },
+    {
+      "Identity": "C:\\Estacionamento_Charp-main\\wwwroot\\css\\estilo.css",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Estacionamento_Charp-main\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "css/estilo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilo.css"
+    },
+    {
+      "Identity": "C:\\Estacionamento_Charp-main\\wwwroot\\login.html",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Estacionamento_Charp-main\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    }
+  ]
+}
