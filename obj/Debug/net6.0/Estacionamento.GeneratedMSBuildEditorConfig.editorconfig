@@ -1,0 +1,30 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+<<<<<<< HEAD
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Estacionamento
+build_property.RootNamespace = Estacionamento
+build_property.ProjectDir = c:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Estacionamento_Charp-main
+=======
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Estacionamento
+build_property.RootNamespace = Estacionamento
+build_property.ProjectDir = C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EMANOEL EDVAN\Desktop\programas\C_sharpe\Gerenciador_Vagas-main
+>>>>>>> c852c0a27c4cc27835fe98b91ae723f5d41a0e1d
+build_property._RazorSourceGeneratorDebug = 
