@@ -4,15 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cliente</title>
-
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Bem-vindo ao E-Estacionamento</h1>
-        <h2>Cliente</h2>
-        <p>Você está logado como cliente.</p>
-        <button onclick="window.location.href='login.html'">Sair</button>
-    </div>
-
+<main class="client-page">
+    <section class="client-container">
+        <header class="client-header">
+            <h1 class="app-title">Bem-vindo ao <span class="highlight">E-Estacionamento</span></h1>
+            <h2 class="client-subtitle">Cliente</h2>
+        </header>
+        <div class="client-body">
+            <p class="client-status">Você está logado como cliente.</p>
+            <button class="logout-button" onclick="window.location.href='login.html'">Sair</button>
+        </div>
+    </section>
+</main>
 </body>
 </html>

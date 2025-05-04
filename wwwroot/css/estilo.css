@@ -1,46 +1,134 @@
-body {
+/* Reset geral */
+* {
     margin: 0;
-    padding-top: 100px; /* dá espaço para a navbar fixa */
-    height: 100vh;
-    background-color: #f0f0f0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom right, #2c3e50, #3498db);
+    color: #fff;
+    min-height: 100vh;
     display: flex;
+    align-items: center;
     justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    padding: 20px;
 }
 
-.navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
+/* Área principal da página */
+.login-page {
     width: 100%;
-    z-index: 10;
-    background-color: white;
-    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
-    padding: 20px 0;
-    text-align: center;
-}
-
-.container {
+    max-width: 500px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
+}
+
+/* Container do formulário */
+.login-container {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 20px;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Cabeçalho */
+.login-header {
     text-align: center;
+}
+
+.app-title {
+    font-size: 1.8rem;
+    color: #ecf0f1;
+}
+
+.highlight {
+    color: #1abc9c;
+    font-weight: bold;
+}
+
+/* Corpo do formulário */
+.login-body {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Formulário */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: #ecf0f1;
 }
 
 input {
-    border-radius: 10%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    font-size: 1rem;
 }
 
-button {
-    background-color: #4a79e1;
-    border: none;
+input:focus {
+    outline: 2px solid #1abc9c;
+}
+
+/* Botão */
+.login-button {
+    padding: 12px;
+    background-color: #1abc9c;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    margin: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
     cursor: pointer;
-    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+    background-color: #16a085;
+}
+
+/* Mensagem do resultado */
+.login-message {
+    text-align: center;
+    font-size: 0.95rem;
+    margin-top: 10px;
+}
+
+/* Responsividade */
+@media (max-width: 480px) {
+    .login-container {
+        padding: 20px;
+        border-radius: 15px;
+    }
+
+    .app-title {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .login-container {
+        max-width: 600px;
+    }
 }
