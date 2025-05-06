@@ -1,16 +1,20 @@
 {
   "Files": [
     {
-      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\criarconta.html",
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\criarconta.html",
       "PackagePath": "staticwebassets\\criarconta.html"
     },
     {
-      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\css\\estilo.css",
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\css\\estilo.css",
       "PackagePath": "staticwebassets\\css\\estilo.css"
     },
     {
-      "Id": "C:\\Estacionamento_Charp-main\\wwwroot\\login.html",
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\principal.html",
+      "PackagePath": "staticwebassets\\principal.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props",

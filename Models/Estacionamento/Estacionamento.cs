@@ -14,6 +14,7 @@ namespace Estacionamento.Models
      public String Nome { get; set; }
      public int CNPJ { get; set; }
      public int DonoId { get; set; } 
+      public List<VagaEstacionamento> Vagas { get; set; }
 
         [JsonIgnore]
         public virtual DonoEstacionamento DonoEstacionamento {get; set;}

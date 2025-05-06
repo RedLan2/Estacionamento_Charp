@@ -21,6 +21,8 @@ namespace Estacionamento.Models
         public DbSet<DonoEstacionamento> DonoEstacionamentos{get;set;}
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Estacionamento> Estacionamentos{get;set;}
+        public DbSet<VagaEstacionamento> VagaEstacionamentos{get;set;}
+        public DbSet<AluguelVaga> AluguelVagas{get;set;}
 
 
            protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -44,7 +46,16 @@ namespace Estacionamento.Models
                 .HasForeignKey(e => e.EnderecoId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-          
+         modelBuilder.Entity<Estacionamento>()
+            .HasMany(e => e.Vagas)
+            .WithOne(v => v.Estacionamento)
+            .HasForeignKey(v => v.EstacionamentoId)
+            .OnDelete(DeleteBehavior.Cascade);
+            
+             modelBuilder.Entity<AluguelVaga>()
+            .HasOne<VagaEstacionamento>()
+            .WithMany()
+            .HasForeignKey(a => a.VagaEstacionamentoId);
           
                 
     }

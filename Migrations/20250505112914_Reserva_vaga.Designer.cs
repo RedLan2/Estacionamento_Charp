@@ -2,6 +2,7 @@
 using Estacionamento.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -9,9 +10,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Estacionamento.Migrations
 {
     [DbContext(typeof(Contexto))]
-    partial class ContextoModelSnapshot : ModelSnapshot
+    [Migration("20250505112914_Reserva_vaga")]
+    partial class Reserva_vaga
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,8 +37,6 @@ namespace Estacionamento.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("VagaEstacionamentoId");
 
                     b.HasIndex("VeiculoId");
 
@@ -203,12 +204,6 @@ namespace Estacionamento.Migrations
 
             modelBuilder.Entity("Estacionamento.Models.AluguelVaga", b =>
                 {
-                    b.HasOne("Estacionamento.Models.VagaEstacionamento", null)
-                        .WithMany()
-                        .HasForeignKey("VagaEstacionamentoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("Estacionamento.Models.Veiculo", "Veiculo")
                         .WithMany()
                         .HasForeignKey("VeiculoId")
