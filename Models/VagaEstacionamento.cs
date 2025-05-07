@@ -10,7 +10,6 @@ namespace Estacionamento.Models
     {
         public int Id { get; set; }
     public bool Disponivel { get; set; }
-
     
     public int EstacionamentoId { get; set; }
     
