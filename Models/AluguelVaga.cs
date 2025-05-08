@@ -9,6 +9,7 @@ namespace Estacionamento.Models
     {
         public int Id { get; set; }
         public int VagaEstacionamentoId { get; set; }
+        public VagaEstacionamento VagaEstacionamento { get; set; }
         public decimal ValorDiaria { get; set; }
 
         public int VeiculoId { get; set; }

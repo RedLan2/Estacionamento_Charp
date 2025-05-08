@@ -23,8 +23,8 @@ namespace Estacionamento.Controllers
           
             
 
-            [HttpPost("CriarEstacionameto")]
-            public IActionResult Create(EstacionamentoDTO estacionamentoDTO){
+            [HttpPost("CriarEstacionametoEndereco")]
+            public IActionResult Create(EstacionamentoDTO estacionamentoDTO,EnderecoDTO enderecoDTO){
                   var estacionamento = new Models.Estacionamento
                     {
                         Nome = estacionamentoDTO.Nome,
@@ -33,7 +33,16 @@ namespace Estacionamento.Controllers
                         EnderecoId = estacionamentoDTO.EnderecoId
                        
                     };
+                    var endereco = new Models.Endereco
+                    {
+                        Rua = enderecoDTO.Rua,
+                        Numero = enderecoDTO.Numero,
+                        Complemento = enderecoDTO.Complemento,
+                        Cep = enderecoDTO.Cep
+                    };
 
+
+                    _contexto.Add(endereco);
                     // Adiciona o estacionamento ao contexto e salva no banco
                     _contexto.Add(estacionamento);
                     _contexto.SaveChanges(); // Salva para gerar o ID do estacionamento no banco
