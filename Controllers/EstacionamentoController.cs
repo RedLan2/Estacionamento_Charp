@@ -23,34 +23,38 @@ namespace Estacionamento.Controllers
           
             
 
-            [HttpPost("CriarEstacionametoEndereco")]
-            public IActionResult Create(EstacionamentoDTO estacionamentoDTO,EnderecoDTO enderecoDTO){
-                  var estacionamento = new Models.Estacionamento
-                    {
-                        Nome = estacionamentoDTO.Nome,
-                        CNPJ = estacionamentoDTO.CNPJ,
-                        DonoId = estacionamentoDTO.DonoId,
-                        EnderecoId = estacionamentoDTO.EnderecoId
-                       
-                    };
-                    var endereco = new Models.Endereco
-                    {
-                        Rua = enderecoDTO.Rua,
-                        Numero = enderecoDTO.Numero,
-                        Complemento = enderecoDTO.Complemento,
-                        Cep = enderecoDTO.Cep
-                    };
+          [HttpPost("CriarEstacionametoEndereco")]
+public IActionResult Create([FromBody] EstacionamentoComEnderecoDTO dados)
+{
+    var estacionamentoDTO = dados.EstacionamentoDTO;
+    var enderecoDTO = dados.EnderecoDTO;
 
+    var endereco = new Models.Endereco
+    {
+        Rua = enderecoDTO.Rua,
+        Numero = enderecoDTO.Numero,
+        Complemento = enderecoDTO.Complemento,
+        Cep = enderecoDTO.Cep
+    };
 
-                    _contexto.Add(endereco);
-                    // Adiciona o estacionamento ao contexto e salva no banco
-                    _contexto.Add(estacionamento);
-                    _contexto.SaveChanges(); // Salva para gerar o ID do estacionamento no banco
-            
+    _contexto.Enderecos.Add(endereco);
+    _contexto.SaveChanges(); // para gerar o EnderecoId
 
-                    return Ok(estacionamentoDTO);
-            }
-            
+    var estacionamento = new Models.Estacionamento
+    {
+        Nome = estacionamentoDTO.Nome,
+        CNPJ = estacionamentoDTO.CNPJ,
+        DonoId = estacionamentoDTO.DonoId,
+        EnderecoId = endereco.Id, // usa o ID gerado
+        ValorDiaria = estacionamentoDTO.ValorDiaria
+    };
+
+    _contexto.Estacionamentos.Add(estacionamento);
+    _contexto.SaveChanges();
+
+    return Ok(estacionamento);
+}
+
 
         
 
