@@ -19,13 +19,15 @@ namespace Estacionamento.Controllers
         }       
 
          [HttpPost("CriarVeiculo")]
-            public IActionResult Create(VeiculoDTO veiculoDTO){
+            public IActionResult CriarVeiculo(VeiculoDTO veiculoDTO){
 
                  var clienteExiste = _contexto.Cliente.Any(c => c.Id == veiculoDTO.ClienteId);
-                if (!clienteExiste)
-                {
-                    return BadRequest($"Cliente com ID {veiculoDTO.ClienteId} não existe.");
-                }
+                  Console.WriteLine($"Recebido: Modelo={veiculoDTO.Modelo}, Placa={veiculoDTO.Placa}, ClienteId={veiculoDTO.ClienteId}");   
+            if (!clienteExiste)
+            {
+                return BadRequest($"Cliente com ID {veiculoDTO.ClienteId} não existe.");
+
+            }
                 var veiculo = new Veiculo
                     {
                         modelo = veiculoDTO.Modelo,
@@ -37,7 +39,7 @@ namespace Estacionamento.Controllers
                 return Ok(veiculoDTO);
             }
 
-            [HttpGet("ListarVeiculos/{clienteId}")]
+            [HttpGet("ListarVeiculo/{clienteId}")]
             public IActionResult ListarVeiculo(int clienteId)
             {
                 var veiculos = _contexto.Veiculo

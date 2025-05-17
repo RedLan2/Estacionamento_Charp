@@ -15,7 +15,7 @@ document.getElementById("loginForm").addEventListener("submit", async function (
     const resultado = document.getElementById("resultado");
     if (resposta.ok) {
         const cliente = await resposta.json();
-          localStorage.setItem("Id", cliente.id);
+            localStorage.setItem("Id", cliente.id);
           localStorage.setItem("Nome", cliente.nome);
         resultado.innerText = "Login realizado com sucesso!";
         window.location.href = "principal.html";

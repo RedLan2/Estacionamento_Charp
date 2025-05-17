@@ -1,27 +1,28 @@
 document.addEventListener("DOMContentLoaded", async function () {
     const nome = localStorage.getItem("Nome");
-    const clienteId = localStorage.getItem("clienteId");
+    const clienteId =   localStorage.getItem("Id");
 
     if (nome) {
         document.getElementById("boasVindas").innerText = `Bem-vindo, ${nome}!`;
     }
 
-    /*if (!clienteId) {
+    if (!clienteId) {
         alert("Cliente não identificado. Faça login novamente.");
         window.location.href = "login.html";
         return;
-    }*/
+    }
 
     // Listar veículos
     try {
-         const resposta = await fetch(`/veiculo/ListarVeiculos/${clienteId}`);
+         const resposta = await fetch(`/Veiculo/ListarVeiculo/${clienteId}`);
         const lista = document.getElementById("listaVeiculos");
 
         if (resposta.ok) {
             const veiculos = await resposta.json();
-            if (veiculos.length === 0) {
+            if (veiculos.length == 0) {
                 lista.innerHTML = "<li>Você ainda não cadastrou nenhum veículo.</li>";
             } else {
+                //lista.innerHTML = ""; // Limpa a lista antes de adicionar novos itens
                 veiculos.forEach(v => {
                     const li = document.createElement("li");
                     li.innerText = `Modelo: ${v.modelo}, Placa: ${v.placa}`;
@@ -42,7 +43,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         const modelo = document.getElementById("modelo").value;
         const placa = document.getElementById("placa").value;
 
-        const resposta = await fetch("/veiculo/CriarVeiculo", {
+        const resposta = await fetch("/Veiculo/CriarVeiculo", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
