@@ -9,7 +9,7 @@ namespace Estacionamento.Controllers
 
 {       
     [ApiController]
-      [Route("controller/cliente")]
+    [Route("[controller]")]
     public class VeiculoController :ControllerBase
     {   
          private readonly Contexto _contexto;
@@ -37,15 +37,26 @@ namespace Estacionamento.Controllers
                 return Ok(veiculoDTO);
             }
 
-             [HttpGet("ListarVeiculos/{clienteId}")]
-             public IActionResult ListarVeiculo(int clienteId){
-               var veiculos = _contexto.Veiculo.Where(v => v.clienteId == clienteId).ToList();
-             if (veiculos == null )
-             {
-                 return NotFound("Nenhum veículo encontrado para este dono.");
-             }
-             return Ok(veiculos);
-    }
+            [HttpGet("ListarVeiculos/{clienteId}")]
+            public IActionResult ListarVeiculo(int clienteId)
+            {
+                var veiculos = _contexto.Veiculo
+                    .Where(v => v.clienteId == clienteId)
+                    .Select(v => new {
+                        v.Id,
+                        v.modelo,
+                        v.placa
+                    })
+                    .ToList();
+
+                if (!veiculos.Any())
+                {
+                    return NotFound("Nenhum veículo encontrado para este dono.");
+                }
+
+                return Ok(veiculos);
+            }
+
 
     }
 }

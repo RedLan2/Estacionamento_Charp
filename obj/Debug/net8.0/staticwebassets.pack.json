@@ -9,6 +9,26 @@
       "PackagePath": "staticwebassets\\css\\estilo.css"
     },
     {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\css\\estiloDono.css",
+      "PackagePath": "staticwebassets\\css\\estiloDono.css"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\donocriarconta.html",
+      "PackagePath": "staticwebassets\\donocriarconta.html"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\criar-conta.js",
+      "PackagePath": "staticwebassets\\js\\criar-conta.js"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\principal.js",
+      "PackagePath": "staticwebassets\\js\\principal.js"
+    },
+    {
       "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },

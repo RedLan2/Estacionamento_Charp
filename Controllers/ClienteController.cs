@@ -31,7 +31,7 @@ namespace Estacionamento.Controllers
                 if(clienteLogin == null){
                     return NotFound("Cliente não encontrado");
                 }
-                return Ok("logado");
+               return Ok(new { id = clienteLogin.Id, nome = clienteLogin.Nome });
             }
 
             //Metodo para ve as reservas do cliente

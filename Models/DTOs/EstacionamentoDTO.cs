@@ -7,7 +7,7 @@ namespace Estacionamento.Models
 {
     public class EstacionamentoDTO
     {
-                public int Id { get; set; }
+        public int Id { get; set; }
         public string Nome { get; set; }
         public int DonoId { get; set; }
         public int CNPJ { get; set; }

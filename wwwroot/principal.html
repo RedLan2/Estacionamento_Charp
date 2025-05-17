@@ -14,10 +14,29 @@
             <h2 class="client-subtitle">Cliente</h2>
         </header>
         <div class="client-body">
-            <p class="client-status">Você está logado como cliente.</p>
+            <p id="boasVindas" class="client-status">Você está logado como cliente.</p>
+
             <button class="logout-button" onclick="window.location.href='login.html'">Sair</button>
         </div>
     </section>
+
+    <section class="vehicle-section">
+        <h3>Seus veículos cadastrados:</h3>
+        <ul id="listaVeiculos" class="vehicle-list"></ul>
+
+        <h4>Cadastrar novo veículo</h4>
+        <form id="formCadastroVeiculo" class="vehicle-form">
+            <label for="modelo">Modelo:</label>
+            <input type="text" id="modelo" required><br>
+
+            <label for="placa">Placa:</label>
+            <input type="text" id="placa" required><br>
+
+            <button type="submit">Cadastrar Veículo</button>
+        </form>
+    </section>
 </main>
+
+<script src="js/principal.js"></script>
 </body>
 </html>

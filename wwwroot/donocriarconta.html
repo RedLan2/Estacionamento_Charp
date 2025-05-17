@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar Dono</title>
+    <link rel="stylesheet" href="css/estiloDono.css">
+    
+</head>
+<body>
+<main class="login-page">
+    <section class="login-container">
+        <header class="login-header">
+            <h1 class="app-title">Criar conta Dono</h1>
+        </header>
+
+        <section class="form-body">
+            <form id="criarContaForm" class="login-form">
+                <div class="form-group">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="cpf">CPF:</label>
+                    <input type="text" id="cpf" required>
+                </div>
+                 <div class="form-group">
+                <label for="data_nascimento">Data de Nascimento:</label>
+                <input type="date" id="data_nascimento" required />
+            </div>
+
+                <div class="form-group">
+                    <button type="submit" class="login-button">Cadastrar Dono</button>
+                </div>
+            </form>
+
+            <div id="mensagem" class="form-message"></div>
+        </section>
+    </section>
+</main>
+
+<script>
+    document.getElementById("donoForm").addEventListener("submit", async function (e) {
+        e.preventDefault();
+
+        const nome = document.getElementById("nome").value;
+        const email = document.getElementById("email").value;
+        const cpf = document.getElementById("cpf").value;
+        const data_nascimento = document.getElementById("data_nascimento").value;
+        const resposta = await fetch("/controller/dono/CriarDonoEstacionamento", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ nome, email, cpf })
+        });
+
+        const mensagem = document.getElementById("mensagem");
+        if (resposta.ok) {
+            mensagem.innerText = "Dono cadastrado com sucesso!";
+            mensagem.style.color = "green";
+            document.getElementById("donoForm").reset();
+        } else {
+            mensagem.innerText = "Erro ao cadastrar o dono.";
+            mensagem.style.color = "red";
+        }
+    });
+</script>

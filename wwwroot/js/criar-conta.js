@@ -18,6 +18,7 @@ document.getElementById("criarContaForm").addEventListener("submit", async funct
     const resultado = document.getElementById("resultado");
     if (resposta.ok) {
         resultado.innerText = "Conta criada com sucesso!";
+        window.location.href = "login.html";
     } else {
         resultado.innerText = "Erro ao criar conta.";
     }
