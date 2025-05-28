@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FLa0uC3ZgeYU/yxMbUkYA8Y7dKt5yTGT2ygMWhFxh9s=",
+  "Hash": "apjDRV5TYrmxgrY16yHjSJZhYFZjZw46aMil+ij7JFY=",
   "Source": "Estacionamento",
   "BasePath": "_content/Estacionamento",
   "Mode": "Default",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "wwwroot\\donocriarconta.html"
     },
     {
+      "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\donoprincipal.html",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "donoprincipal.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\donoprincipal.html"
+    },
+    {
       "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\criar-conta.js",
       "SourceId": "Estacionamento",
       "SourceType": "Discovered",
@@ -131,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
+      "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\logindono",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "js/logindono",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\logindono"
+    },
+    {
       "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\principal.js",
       "SourceId": "Estacionamento",
       "SourceType": "Discovered",
@@ -167,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\logindono.html",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "logindono.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logindono.html"
     },
     {
       "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\principal.html",

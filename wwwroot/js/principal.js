@@ -62,4 +62,26 @@ document.addEventListener("DOMContentLoaded", async function () {
             alert("Erro ao cadastrar veículo.");
         }
     });
+    //listar estacionamentos
+    try {
+        const resposta = await fetch("/Estacionamento/ListarEstacionamentos");
+        const listaEstacionamentos = document.getElementById("listaEstacionamentos");
+
+        if (resposta.ok) {
+            const estacionamentos = await resposta.json();
+            if (estacionamentos.length == 0) {
+                listaEstacionamentos.innerHTML = "<li>Nenhum estacionamento cadastrado.</li>";
+            } else {
+                estacionamentos.forEach(e => {
+                    const li = document.createElement("li");
+                    li.innerText = `Nome: ${e.nome}, Endereço: ${e.endereco}`;
+                    listaEstacionamentos.appendChild(li);
+                });
+            }
+        } else {
+            listaEstacionamentos.innerHTML = "<li>Erro ao carregar estacionamentos.</li>";
+        }
+    } catch (erro) {
+        console.error("Erro ao buscar estacionamentos:", erro);
+    }
 });

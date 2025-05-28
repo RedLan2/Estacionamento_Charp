@@ -25,6 +25,9 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+.client-header{
+    padding: 3rem 4rem 1rem;
+}
 
 /* Container do formulário */
 .login-container {

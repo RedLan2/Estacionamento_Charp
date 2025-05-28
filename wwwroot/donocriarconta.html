@@ -46,7 +46,7 @@
 </main>
 
 <script>
-    document.getElementById("donoForm").addEventListener("submit", async function (e) {
+    document.getElementById("criarContaForm").addEventListener("submit", async function (e) {
         e.preventDefault();
 
         const nome = document.getElementById("nome").value;
@@ -58,7 +58,7 @@
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({ nome, email, cpf })
+            body: JSON.stringify({ nome, email, cpf,data_nascimento })
         });
 
         const mensagem = document.getElementById("mensagem");
