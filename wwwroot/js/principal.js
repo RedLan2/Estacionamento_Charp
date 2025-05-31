@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     });
     //listar estacionamentos
     try {
-        const resposta = await fetch("/Estacionamento/ListarEstacionamentos");
+        const resposta = await fetch("/Estacionamento/ListarEtacionamentosComEndereco");
         const listaEstacionamentos = document.getElementById("listaEstacionamentos");
 
         if (resposta.ok) {
@@ -73,6 +73,8 @@ document.addEventListener("DOMContentLoaded", async function () {
                 listaEstacionamentos.innerHTML = "<li>Nenhum estacionamento cadastrado.</li>";
             } else {
                 estacionamentos.forEach(e => {
+                    console.log(e);
+                    console.log("Endereco: " + e);
                     const li = document.createElement("li");
                     li.innerText = `Nome: ${e.nome}, Endereço: ${e.endereco}`;
                     listaEstacionamentos.appendChild(li);

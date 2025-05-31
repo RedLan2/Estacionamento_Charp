@@ -15,7 +15,8 @@ namespace Estacionamento.Models
         public String Telefone { get; set; }
         public String CPF { get; set; } 
         [EmailAddress(ErrorMessage = "Email inválido")]
-        public String Email { get; set; }        
+        public String Email { get; set; }
+        public String Senha { get; set; }
         public String Data_nascimento { get; set; }                                                                                          
         public bool Ativo { get; set; } = true;
         

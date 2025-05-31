@@ -10,14 +10,14 @@ namespace Estacionamento.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AddColumn<double>(
+            /* migrationBuilder.AddColumn<double>(
                 name: "ValorDiaria",
                 table: "Estacionamentos",
                 type: "double",
                 nullable: false,
                 defaultValue: 0.0);
 
-         /*   migrationBuilder.AddColumn<int>(
+           migrationBuilder.AddColumn<int>(
                 name: "VagaEstacionamentoId1",
                 table: "AluguelVagas",
                 type: "int",

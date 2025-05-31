@@ -63,6 +63,13 @@ public IActionResult Create([FromBody] EstacionamentoComEnderecoDTO dados)
         var estacionamentos = _contexto.Estacionamentos.ToList();
         return Ok(estacionamentos);
     }
+    [HttpGet("ListarEtacionamentosComEndereco")]
+    public IActionResult ListarEstacionamentosComEndereco(){
+        var estacionamentos = _contexto.Estacionamentos
+            .Include(e => e.Endereco)
+            .ToList();
+        return Ok(estacionamentos);
+    }
     [HttpPost("CriarEndereco")]
     public IActionResult Create(Endereco endereco){
         _contexto.Add(endereco);
