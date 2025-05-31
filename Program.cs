@@ -9,6 +9,10 @@ builder.Services.AddDbContext<Contexto>(options =>
         ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("ConexãoPadrão"))
     )
 );
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.PropertyNameCaseInsensitive = true;
+});
 
 builder.Services.AddControllersWithViews()
     .AddRazorRuntimeCompilation(); // Suporte para MVC + Views

@@ -9,15 +9,15 @@ namespace Estacionamento.Models
     public class ClienteDTO
     {
           public String CPF { get; set; } 
-        [EmailAddress(ErrorMessage = "Email inválido")]
-        public String Email { get; set; }
+        [Required(ErrorMessage = "Senha é obrigatória")]
+        public String Senha { get; set; }
 
         public static ClienteDTO ConvertToDTO(Cliente cliente)
         {
             return new ClienteDTO
             {
                 CPF = cliente.CPF,
-                Email = cliente.Email
+                Senha = cliente.Senha
             };
         }
     }

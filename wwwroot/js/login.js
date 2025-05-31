@@ -1,7 +1,7 @@
 document.getElementById("loginForm").addEventListener("submit", async function (e) {
     e.preventDefault();
 
-    const email = document.getElementById("email").value;
+    const senha = document.getElementById("senha").value;
     const cpf = document.getElementById("cpf").value;
 
     const resposta = await fetch("/controller/cliente/LoginCliente", {
@@ -9,7 +9,7 @@ document.getElementById("loginForm").addEventListener("submit", async function (
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({ email, cpf })
+        body: JSON.stringify({ senha, cpf })
     });
 
     const resultado = document.getElementById("resultado");

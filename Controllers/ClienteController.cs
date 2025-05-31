@@ -27,7 +27,7 @@ namespace Estacionamento.Controllers
 
             [HttpPost("LoginCliente")]
             public IActionResult LoginCliente([FromBody] ClienteDTO clienteDTO){
-                var clienteLogin = _contexto.Cliente.FirstOrDefault(c => c.Email == clienteDTO.Email && c.CPF == clienteDTO.CPF);
+                var clienteLogin = _contexto.Cliente.FirstOrDefault(c => c.Senha == clienteDTO.Senha && c.CPF == clienteDTO.CPF);
                 if(clienteLogin == null){
                     return NotFound("Cliente não encontrado");
                 }
