@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "apjDRV5TYrmxgrY16yHjSJZhYFZjZw46aMil+ij7JFY=",
+  "Hash": "DuMo2ma3QfbQY1hgIcCwAF60b27RP2LDS7Xjvibzqck=",
   "Source": "Estacionamento",
   "BasePath": "_content/Estacionamento",
   "Mode": "Default",
@@ -150,25 +150,6 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\logindono",
-      "SourceId": "Estacionamento",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\",
-      "BasePath": "_content/Estacionamento",
-      "RelativePath": "js/logindono",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\logindono"
-    },
-    {
       "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\principal.js",
       "SourceId": "Estacionamento",
       "SourceType": "Discovered",
@@ -243,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\principal.html"
+    },
+    {
+      "Identity": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\tailwind.html",
+      "SourceId": "Estacionamento",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\",
+      "BasePath": "_content/Estacionamento",
+      "RelativePath": "tailwind.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\tailwind.html"
     }
   ]
 }

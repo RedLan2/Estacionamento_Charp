@@ -8,7 +8,7 @@
 </head>
 <body>
 <main class="client-page">
-    <section class="client-container">
+    <section class="login-container">
         <header class="client-header">
             <h1 class="app-title">Bem-vindo ao <span class="highlight">E-Estacionamento</span></h1>
             <h2 class="client-subtitle">Cliente</h2>
@@ -18,9 +18,9 @@
 
            
         </div>
-    </section>
+  
 
-    <section class="vehicle-section">
+   
         <h3>Seus veículos cadastrados:</h3>
         <ul id="listaVeiculos" class="vehicle-list"></ul>
 
@@ -34,11 +34,12 @@
 
             <button type="submit">Cadastrar Veículo</button>
         </form>
-    </section>
-    <section class="parking-section">
+  
+   
         <h3>Estacionamentos disponíveis:</h3>
         <ul id="listaEstacionamentos" class="parking-list"></ul>
-
+          <button class="logout-button" onclick="window.location.href='login.html'">Sair</button>
+  </section>
         <!--<h4>Reservar estacionamento</h4>
         <form id="formReservaEstacionamento" class="parking-form">
             <label for="estacionamentoId">ID do Estacionamento:</label>
@@ -46,7 +47,7 @@
 
             <button type="submit">Reservar Estacionamento</button>
         </form>-->
-         <button class="logout-button" onclick="window.location.href='login.html'">Sair</button>
+       
 </main>
 
 <script src="js/principal.js"></script>

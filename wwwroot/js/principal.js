@@ -75,8 +75,9 @@ document.addEventListener("DOMContentLoaded", async function () {
                 estacionamentos.forEach(e => {
                     console.log(e);
                     console.log("Endereco: " + e);
+                    console.log('Endereço:', e.Endereco);
                     const li = document.createElement("li");
-                    li.innerText = `Nome: ${e.nome}, Endereço: ${e.endereco}`;
+                    li.innerText = `Nome: ${e.nome}, Endereco: ${e.endereco}, Valor: ${e.ValorDiaria}`;
                     listaEstacionamentos.appendChild(li);
                 });
             }

@@ -29,10 +29,6 @@
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\logindono",
-      "PackagePath": "staticwebassets\\js"
-    },
-    {
       "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\js\\principal.js",
       "PackagePath": "staticwebassets\\js\\principal.js"
     },
@@ -47,6 +43,10 @@
     {
       "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\principal.html",
       "PackagePath": "staticwebassets\\principal.html"
+    },
+    {
+      "Id": "D:\\PROGRAMAS\\Estacionamento_Charp-master\\Estacionamento_Charp-master\\wwwroot\\tailwind.html",
+      "PackagePath": "staticwebassets\\tailwind.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props",
