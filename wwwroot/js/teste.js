@@ -73,11 +73,14 @@ document.addEventListener("DOMContentLoaded", async function () {
                 listaEstacionamentos.innerHTML = "<li>Nenhum estacionamento cadastrado.</li>";
             } else {
                 estacionamentos.forEach(e => {
-                    console.log(e);
-                    console.log("Endereco: " + e);
-                    console.log('Endereço ve se vem:', e.endereco);
+                    console.log(e); // Verifique a estrutura do objeto 'e' e 'e.endereco'
                     const li = document.createElement("li");
-                    li.innerText = `Nome: ${e.nome}, Endereco: ${e.endereco}, Valor: ${e.ValorDiaria}`;
+                    if (e.endereco) { // Verifica se o endereço existe
+                        // Ajeitar aqui depois
+                        li.innerText = `Nome: ${e.nome}, Valor: ${e.ValorDiaria}, Endereço: ${e.endereco.rua || ''}, ${e.endereco.numero || ''} - CEP: ${e.endereco.cep || ''} (${e.endereco.complemento || ''})`;
+                    } else {
+                        li.innerText = `Nome: ${e.nome}, Valor: ${e.ValorDiaria},Endereço: Não informado`;
+                    }
                     listaEstacionamentos.appendChild(li);
                 });
             }

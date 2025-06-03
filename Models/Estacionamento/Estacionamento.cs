@@ -21,7 +21,7 @@ namespace Estacionamento.Models
         public virtual DonoEstacionamento DonoEstacionamento {get; set;}
   
          public int EnderecoId { get; set; }
-        [JsonIgnore]
+       // [JsonIgnore]
         public Endereco Endereco { get; set; }
     }
 }
